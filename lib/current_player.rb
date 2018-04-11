@@ -1,6 +1,6 @@
 def turn_count(board)
-  players = ["X", "O"]
-  counter = 1 
+  player_x = "X"
+  player_o = "O" 
   players.each do |character| 
     puts #{character}
   counter += 1 
