@@ -1,5 +1,7 @@
 def turn_count(board)
-  players = ["first", "second"]
+  players = ["X", "O"]
+  counter = 1 
+  
   
   
   character += 1 
