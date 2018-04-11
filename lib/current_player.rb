@@ -1,5 +1,5 @@
 def turn_count(board)
   board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
-  board.each {|character| puts character}
+  board.each {|space| puts character}
   character += 1 
 end
