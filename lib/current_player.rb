@@ -5,3 +5,4 @@ def turn_count(board)
     puts #{character}
   counter += 1 
 end
+end
