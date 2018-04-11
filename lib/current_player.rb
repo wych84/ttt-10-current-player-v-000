@@ -1,5 +1,6 @@
 def turn_count(board)
-  board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
-  board.each {|space| puts "X" || "O"}
+  first_player = "X"
+  second_player = "O"
+  
   character += 1 
 end
