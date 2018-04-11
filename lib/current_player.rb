@@ -1,2 +1,3 @@
-def turn_count(board, character)
-  
+def turn_count(character)
+  character = ["X", "O"]
+  character.each {do |character| 
