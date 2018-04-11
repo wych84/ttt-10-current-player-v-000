@@ -8,5 +8,5 @@ def turn_count(board)
  counter
 end
  
-def current_player(player)
-  if turn_count == 
+def current_player(counter)
+  if turn_count == counter 
